@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The Dragon's Guide!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+New and Improved! and WIP
