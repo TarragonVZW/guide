@@ -1,0 +1,145 @@
+﻿1. Tarragon info
+Tarragon v.z.w.
+Wijngaardstraat 15 bus 13,
+8500 Kortrijk
+BE 0799.673.542
+RPR Gent Afdeling Kortrijk
+tarragonvzw@gmail.com
+www.tarragon.be
+2. Mission Statement
+Tarragon is an organization set to organize and promote events around activities that have to do with anything tabletop, larp, etc.
+3. Announcements
+Most, if not all, announcements go through the events channel on discord. Secondary to this, instagram, facebook, & the website are used to keep members and interested parties up to date.
+
+
+When making a Legal Announcement, you should always mention all of the information found in Tarragon info.
+   1. Procedure
+Drafts are on the google drive. Normally, announcements go out on Wednesday at 17.00. Each special event should be announced 2 weeks ahead of time.
+
+
+All of the important info should be in the announcement. All of info & details should be in the discord event. The announcement should refer to the event.
+4. Branding
+The brand book is available on the google drive. In there all info about colors, fonts, etc. is contained. If there are details that aren’t clear refer to the current Media.
+   2. Posts
+Each post should have a forum post in the #admin-forum channel. Copywriting is done by PR and graphics by Media
+5. Dragon Roles
+There are a number of roles performed by the different dragons, only the first four are exclusive and cannot be taken upon yourself if you have another. These roles are responsibilities. That means that you need not necessarily do it yourself, you must just make sure it gets done by someone.
+   3. Thane
+The Thane is the head of the organization. In the end, they are responsible for everything. They are tasked with planning and distributing responsibilities and roles. They check up on everyone to make sure the tasks actually get done. They lead the (general) meetings.
+The Thane should preferably be a student & also be a Dragon for a year.
+   4. Viceroy
+The Viceroy is second in command, they assist the Thane wherever possible and are addressed when the Thane isn’t available. The Viceroy keeps the Thane in check.
+The Viceroy should preferably be a student & also be a Dragon for a year.
+   5. Secretary
+The secretary handles all of the paperwork and digital documents. They make sure meeting notes are taken and all documents can be found again when needed.
+   6. Treasurer
+Treasurer is responsible for everything money related. They do the bookkeeping, make sure money at events is handled properly and make sure that we run at a net positive by setting correct budgets.
+It is recommended to regularly update the yearly finances after every event has passed. Add all expenses made and income received. This will make it easier to keep up with the entire document at the end of the year.
+   7. PR (Marketing)
+PR does copywriting for all communication.
+
+
+      1. 2-day Rule
+If there has been a pinged message in request for an approval of a post, piece of media, etc. If it has not been rejected in 2 days time, it has been approved by this rule. In general, you should also seek approval of 2 Dragons.
+   8. Media (Marketing)
+Media is in charge of formatting, graphics, etc.
+   9. Dragon Resources
+DR is our HR department, they are in charge of keeping drama to a minimum. They perform mental health check-ups to make sure nobody is overworking themselves and tasks/roles can get redistributed when needed.
+   10. Discord Mod
+Discord mod is a role that gives responsibility about discord roles, bots, channels and general organization. As well as (try) to keep it a little active. This is not our priority as we are focussed on events.
+   11. Scribe (Scriptor)
+The scribe’s sole responsibility is during a General Meeting, they make sure the notes for those proceedings are taken.
+   12. General Venturer
+General Venturer(s) are the people that take on the role of Venturer by default, for standard meetups or if there isn’t a Venturer assigned.
+6. Kobolds (Members)
+TODO: explain benefits
+Membership can be max 15 euros. The amount is decided on a General Meeting each year (12 EUR for 2023-2024).
+7. Events
+Each event should have a forum post in #admin-forum, this details venturer, photographer, attendance.
+   13. Regular vs Special events
+Regular events are default meetups, special events are themed, often named, events that require special preparations, planning and/or advertisement. We try to have a ratio of 1/3rd special events during the academic year.
+
+
+Special events should be planned one week ahead of time, 2 weeks for big events.
+   14. Venturer(s)
+The event venturer is the person responsible for that event. They are there to make sure preparations are made & during the event they are the main contact point.
+The Thane and Viceroy are by default general venturers.
+   15. Photographer
+Assigned Event Photographers take pictures on the event, they also filter through the photos. ONLY upload usable photos on the drive, make a folder for each event.
+
+
+   16. Volunteer
+Volunteers are recruited on a per-event basis, they have the option to maintain their volunteer role in case they want to help out in future events without becoming a dragon.
+   17. Attendance
+Unless otherwise stated, you should be on the location 15 minutes ahead of time for regular events and 30 minutes ahead for special events. If, for whatever reason, you cannot be there at this time, communicate with the other dragons through the #admin-channel . You should try to be at 2/3rds of all events.
+This responsibility isn’t applicable during vacations.
+   18. Planning an event
+A short checklist of things to verify/make sure are in order when events are being planned:
+* Who’s the Venturer?
+* Make a Discord forum post
+* Is there a “Discord Event” made?
+* Is it on the website?
+* Instagram? Facebook?
+* Any legal requirements?
+* Arrangements with Third parties (Crafty Potions, sponsors, etc.)?
+8. Documents & Assets
+   1. Merch
+Dragon exclusive hoodies and t-shirts are worn to separate dragons from other people during events.
+Merch may not be sold to non-dragons, and only for original price.
+9. Discord
+   1. Creating event groups
+Dragons can create groups with the YAGPDB bot through a custom command Jasper has written. Syntax is as follows:
+
+-setupGroup “groupName” slots
+
+
+To join, users should react to the group.
+To delete, a Dragon should react ❌to the group.
+   2. Getting the Database
+-getGuildDb
+
+
+Gets the database, we have limited storage so keep this in mind.
+   3. Clearing the Database
+-CLEARDB
+
+
+Clears the database, this should only be used if somebody really fucked up and didn’t delete messages correctly.
+10. New Dragons
+11. Ancients
+12. Legal
+A good source for how to do things legally and where to do things legally is https://financien.belgium.be/nl/vzws you can also view this site in english although the information is much more limited then.
+Other FAQ: https://www.vsdc-fb.be/nl/faq/1230/boekhoudkundige-vragen/
+   4. Book year
+Our book year runs parallel to the academic year, starting on the 1st of July and ending on the 31st of June. All membership cards, partnerships, etc. must be refreshed by this time.
+   5. Legal Announcements
+Any and all legal announcements or documents should contain the full information about Tarragon as found in Tarragon info. This includes but is not limited to:
+* Legal files
+* Billing documents
+* Legal publications (general meetings, legal changes to the organization, …)
+* Letters
+* Orders
+* Websites
+   1. Seat of the organization
+The Seat of the organization can be changed if ⅔ of the dragons agrees, without a general meeting. If the language of the statutes is to be changed as a cause of this, a general meeting has to be called to supplement this decision.
+   2. Advertisements
+   3. General Meetings
+General meetings must happen at least once per year and must happen within six months after the end of the book year (31st of December).
+   4. Announcement
+The general meeting, whether ordinary or extraordinary, must be announced at least 15 days ahead of time, through discord and/or e-mail. With location, date, hour, and agenda of topics to be handled. Members can submit topics up until 2 days before the general meeting if at least 1/20th of all members sign the statement that the subject must be handled during the general meeting.
+   5. Proceedings
+There are 2 types of general meetings, ordinary (gewone) and extraordinary (buitengewone). Ordinary general meetings happen at least once a year and must handle the following subjects:
+1. Membership Prices & Proceedings
+2. Bookkeeping & Budgeting
+        Extraordinary meetings can be called anytime if the Dragons or 1/5th of the members call for it.
+        Each general meeting must have a chairman and a secretary, those are in hierarchy:
+* Thane
+* Viceroy
+* Secretary
+* Treasurer
+* Eldest Dragon
+        Each general meeting must have at least ½ of the Dragons present or represented. When changes to the statutes are in order at least 2/3rds of the Dragons must be present or represented.
+Each Dragon has 1 vote. Representation must be delivered in writing to the chairman of the meeting. The vote of the chairman is the tiebreaker.
+   6. Minutes (Notulen)
+   7. Putting an end to it all
+If ⅔ of the manegement agrees, Tarragon vzw can be unbound and will cease operations.
