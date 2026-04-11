@@ -8,6 +8,8 @@ title: Legal Information
 - **RPR:** Gent Afdeling Kortrijk
 - **Email:** tarragonvzw@gmail.com
 - **Website:** [www.tarragon.be](http://www.tarragon.be)
+- **IBAN:** BE18 7330 7200 6665
+- **BIC:** KREDBEBB
 
 > [!IMPORTANT]
 > When making a **Legal Announcement**, you should always mention all of the information found above.
